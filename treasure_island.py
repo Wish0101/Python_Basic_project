@@ -46,16 +46,3 @@ else:
             print("\n\t\t\t--You found the treasure--")
         else:
             print("\t--you caome to the lava room\n\t\t\t--Game Over--")
-
-
-
-
-
-
-
-
-
-
-
-
-
